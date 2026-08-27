@@ -1,4 +1,4 @@
-![logo.png](./logo.png)
+![logo.png]([./logo.png](https://github.com/Flashcards-with-Friends/website-assets/blob/main/Logo.png?raw=true))
 
 [![Website](https://img.shields.io/badge/website-flashcardswithfriends.com-brightgreen)](https://flashcardswithfriends.com)
 
